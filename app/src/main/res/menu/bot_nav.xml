@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Дом"
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/home"
+        android:tint="@android:color/black"
+         />
+    <item android:title="Аналитика"
+        android:icon="@drawable/baseline_donut_large_24"
+        android:id="@+id/anal"
+        android:tint="@android:color/black"
+         />
+</menu>
